@@ -1,0 +1,396 @@
+@media(min-width:992px) and (max-width:1199.98px){
+    .section_header h2{
+        background-color: yellowgreen;
+    }
+    .banner_items {
+        height: 700px;
+    }
+}
+
+@media(min-width:768px) and (max-width:991.98px){
+}
+
+@media(min-width:576px) and (max-width:767.98px){
+   
+}
+
+@media (max-width:767.98px){
+    .menu li:first-child{
+        border-left: none;
+    }
+    .menu_btn{
+        margin-left: 40px;
+    }
+    #banner{
+        background: url(../images/r-banner.png) no-repeat, center / cover;
+        width: 100%;
+        height: 900px;
+    }
+    
+    .banner_text h1{
+        font-size: 60px;
+        line-height: 75px;
+        position: absolute;
+        top: 30%;
+        left: 5%;
+    }
+    .banner_icon{
+        position: absolute;
+        top: 2%;
+        left: -155px;
+    }
+    
+    .type_txt h2{
+        font-size: 36px !important;
+        line-height: 45px !important;
+    }
+    .type_txt h3{
+        font-size: 36px !important;
+        line-height: 45px !important;
+    }
+    .type_txt h4{
+        font-size: 36px !important;
+        line-height: 45px !important;
+    }
+    .type_txt h5{
+        font-size: 36px !important;
+        line-height: 45px !important;
+    }
+    
+    .type_phone .one img{
+        position: absolute;
+        width: 280px;
+        left: 0;
+    }
+    .type_phone .two img{
+        width: 430px;
+        height: 600px;
+        margin-left: 98px !important
+    }
+    .cast_img img{
+        width: 500px !important;
+    }
+    .castype{
+        border-radius: 0;
+        -webkit-border-radius: 0;
+        -moz-border-radius: 0;
+        -ms-border-radius: 0;
+        -o-border-radius: 0;
+}
+    .cast_overlay img {
+        width: 0;
+    }
+    .cast_icon{
+        padding-top: 50px;
+    }
+    .cast_txt h2{
+        font-size: 45px !important;
+    }
+    .cast_txt h3{
+        font-size: 45px !important;
+    }
+    .cst_text{
+        text-align: center !important;
+    }
+    .cast_join{
+        text-align: center;
+    }
+    .star_overlay {
+        position: absolute;
+        width: 102px;
+        height: 39px;
+        left: 135px;
+        top: 291px;
+        background: rgba(0, 0, 0, 0.3);
+        backdrop-filter: blur(20px);
+        border-radius: 20px;
+    }
+    .slick-slide img {
+        display: inherit !important;
+    }
+    #star .next {
+        position: absolute;
+        left: 39%;
+    }
+    .take_main{
+        background: none;
+        border-radius: 0;
+        -webkit-border-radius: 0;
+        -moz-border-radius: 0;
+        -ms-border-radius: 0;
+        -o-border-radius: 0;
+    }
+    .take_word{
+        padding-right: 34px !important;
+    }
+    .take_word h2, h3{
+        font-size: 45px !important;
+        padding: 0 !important;
+    }
+    .take_word h3{
+        font-size: 45px !important;
+        padding: 0 !important;
+    }
+    .take_inner{
+        position: absolute;
+        left: 10%;
+    }
+    .take_main{
+        display: none;
+    }
+    #take .nxt{
+        visibility: hidden;
+    }
+    #take .prv{
+        visibility: hidden;
+    }
+    .take_inner {
+        position: absolute;
+        left: -15%;
+        top: 47%;
+    }
+    .teke_star {
+        margin: 0 !important;
+    }
+    .take_text h2 {
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 16px;
+        color: #FFFFFF;
+        padding: 20px 0 !important;
+    }
+    .take_p p {
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 20px;
+        text-align: center;
+        color: rgba(255, 255, 255, 0.7);
+        padding: 20px 0 !important;
+    }
+    .take_word {
+        padding: 0 0 32px 0 !important;
+    }
+    .tak_rspns {
+        display: block !important;
+    }
+    .respo_slick {
+        display: block !important;
+    }
+    .take_inner img {
+        width: 55px;
+        height: 55px;
+        margin: 56px 172px;
+    }
+    .pretty_txt h2 {
+        font-size: 70px !important;
+        line-height: 100px !important;
+    }
+    .pretty_txt h3 {
+        font-size: 70px !important;
+        line-height: 100px !important;
+    }
+    .footer li:nth-child(3){
+        border-right: 0;
+    }
+}
+
+@media (max-width:575.98px){
+    .menu li:first-child{
+        border-left: none;
+    }
+    .menu_btn{
+        margin-left: 40px;
+    }
+    #banner{
+        background: url(../images/r-banner.png) no-repeat, center / cover;
+        width: 100%;
+        height: 900px;
+    }
+    .banner_text h1{
+        font-size: 50px;
+        line-height: 60px;
+        position: absolute;
+        top: 30%;
+        left: 5%;
+    }
+    .banner_icon{
+        position: absolute;
+        top: 2%;
+        left: -155px;
+    }
+    .type_text{
+        padding: 0 0 0 20px !important;
+    }
+    .type_txt h2{
+        font-size: 36px !important;
+        line-height: 45px !important;
+    }
+    .type_txt h3{
+        font-size: 36px !important;
+        line-height: 45px !important;
+    }
+    .type_txt h4{
+        font-size: 36px !important;
+        line-height: 45px !important;
+    }
+    .type_txt h5{
+        font-size: 36px !important;
+        line-height: 45px !important;
+    }
+    .type_icon{
+        padding-bottom: 40px;
+    }
+    .type_phone .one img{
+        position: absolute;
+        width: 180px;
+        left: 0;
+    }
+    .type_phone .two img{
+        width: 350px;
+        height: 600px;
+        margin-left: -42px !important
+    }
+    .castype{
+        border-radius: 0;
+        -webkit-border-radius: 0;
+        -moz-border-radius: 0;
+        -ms-border-radius: 0;
+        -o-border-radius: 0;
+}
+    .cast_overlay{
+        position: absolute;
+        background-image: url(../images/r-scal.png);
+        background-repeat: no-repeat !important;
+        width: 100%;
+        height: 350px;
+        top: 0;
+        left: 0;
+      }
+    .cast_overlay img {
+        width: 0;
+    }
+    .cast_icon{
+        padding-top: 200px;
+    }
+    .cast_txt h2{
+        font-size: 45px !important;
+    }
+    .cast_txt h3{
+        font-size: 45px !important;
+    }
+    .cst_text{
+        text-align: center !important;
+    }
+    .cast_join{
+        text-align: center;
+    }
+    .cast_img img{
+        width: 300px;
+    }
+    .star_text h2 {
+        font-size: 32px !important;
+        line-height: 40px !important;
+    }
+    .star_text h3 {
+        font-size: 32px !important;
+        line-height: 40px !important;
+    }
+    .star_text h4 {
+        font-size: 32px !important;
+        line-height: 40px !important;
+    }
+    .star_text h5 {
+        font-size: 32px !important;
+        line-height: 40px !important;
+    }
+    .star_join{
+        padding: 20px 190px  0  0 !important;
+    }
+    .slick-slide img {
+        display: inline-block;
+    }
+    #star .prev{
+        position: absolute;
+        right: 15%;
+    }
+    #star .next{
+        position: absolute;
+        left: 32%;
+    }
+    .take_main{
+        background: none;
+        border-radius: 0;
+        -webkit-border-radius: 0;
+        -moz-border-radius: 0;
+        -ms-border-radius: 0;
+        -o-border-radius: 0;
+    }
+    .take_word{
+        padding-right: 34px !important;
+    }
+    .take_word h2, h3{
+        font-size: 45px !important;
+        padding: 0 !important;
+    }
+    .take_word h3{
+        font-size: 45px !important;
+        padding: 0 !important;
+    }
+    .take_inner{
+        position: absolute;
+        left: 10%;
+    }
+    .take_main{
+        display: none;
+    }
+    #take .nxt{
+        visibility: hidden;
+    }
+    #take .prv{
+        visibility: hidden;
+    }
+    .take_inner {
+        position: absolute;
+        left: -15%;
+        top: 47%;
+    }
+    .teke_star {
+        margin: 0 !important;
+    }
+    .take_text h2 {
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 16px;
+        color: #FFFFFF;
+        padding: 20px 0 !important;
+    }
+    .take_p p {
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 20px;
+        text-align: center;
+        color: rgba(255, 255, 255, 0.7);
+        padding: 20px 0 !important;
+    }
+    .take_word {
+        padding: 0 0 32px 0 !important;
+    }
+    .tak_rspns {
+        display: block !important;
+    }
+    .respo_slick {
+        display: block !important;
+    }
+    .pretty_txt h2 {
+        font-size: 48px !important;
+    }
+    .pretty_txt h3 {
+        font-size: 48px !important;
+    }
+    .footer li:nth-child(3){
+        border-right: 0;
+    }
+
+}
